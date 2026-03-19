@@ -1,0 +1,31 @@
+{
+    "Input_file": "DKS1002359122 Mutation report",
+    "Saved_as_file": "s3-lilac/testing/DKS1002359122 Mutation report_06122023-120159.pdf",
+    "Status": "Amazon Textract Complete",
+    "S3_Upload_Date_Time": "06122023-120159",
+    "Amazon_Textract_Date_Time": "07122023-100907",
+    "Amazon_Textract_Jobid": "cfb61c6abb9c2d73a2dffe3ecb6cf59e3f0b146cf3600328d3aef210659d71bc",
+    "Clinical Details": "\nC/O recurrent carcinoma cervix with anterior abdomen wall deposit, ? Nature\nFeatures are suggestive of Squamous cell carcinoma",
+    "Variants Description": [
+        "PIK3CA:c.1633G>A:p.Glu545Lys: Pathogenic: The p.Glu545Lys variant (also known as c.1633G>A), was detected in PIK3CA gene\non chromosome 3 at position 178936091 with variant allele frequency of 53.003% (represented by 1059 reads). This heterozygous\nmutation is having a total depth of 1998X. It is located at exon 10 of NM_006218.4 transcript and was found to change amino acid,\nGlutamic acid to Lysine at codon 545. It leads to Gain-of-Function. It is a hotspot variant. It is represented by rs104886003 in dbSNP\nand COSM763 in cosmic database. It is interpreted as pathogenic according ClinVar database [VCV000013655]. It is predicted as\ndeleterious by SIFT, polyphen2 and Mutation Taster2 which is an in-silico DNA variant effect prediction tool. This variant was found in\nthe population frequency database like gnomAD exome and ExAC at global minor allele frequency of 0.0004032% and 0.0008340%\nreceptively.\n",
+        "KMT2D:c.12592C>T:p.Arg4198Ter: Pathogenic: The p.Arg4198Ter variant (also known as c.12592C>T), was detected in KMT2Dgene on chromosome 12 at position 49425896 with variant allele frequency of 35.25% (represented by 685 reads). This heterozygous\nmutation is having a total depth of 1943X. It is located at exon 40 of NM_003482.4 transcript and was found to change amino\nacid, Arginine to stop codon at 4198. It leads to Loss-of-Function. It is represented by rs587783685 in dbSNP and COSM1512054\nin Cosmic database. It is interpreted pathogenic according to ClinVar database [VCV000158722]. It is predicted as deleterious by\nMutationTaster2 which is an in-silico DNA variant effect prediction tool. This variant was not found in the population frequency\ndatabase like gnomAD, ExAC and 1000G database.\n",
+        "TRIM24(11) - FGFR1(10) Fusion: This fusion was detected between exon 11 of TRIM24 and exon 10 of FGFR1 gene located atgenomic position 138255748 of chromosome 7 and position 38275891 of chromosome 8 respectively. This fusion is supported by 714\nreads. This fusion is represented as TRIM24(11) - FGFR1(10). It results in Gain-of-Function.\n",
+        "FGFR1 Fusion is present in 0.18% of AACR GENIE cases, with breast invasive ductal carcinoma, colon adenocarcinoma, prostateadenocarcinoma, invasive breast carcinoma, and lung adenocarcinoma having the greatest prevalence [mycancergenome.org].\n",
+        "Note:Above reported fusion is identified at very low reads, confirmation by other orthogonal method is recommended."
+    ],
+    "QC statistics": "\nSample is sequenced at Average base coverage depth of 1,948. The Target base coverage at 500X is 89.26%.",
+    "Patient Name ": "DAVINDER KAUR SANDHU ",
+    "Sample Id/LabID ": "30700200294 ",
+    "Gender ": "Female ",
+    "DOB/AGE ": "63 yrs ",
+    "Ref.By ": "LILAC INSIGHTS PVT. LTD. ",
+    "Date of Sample Collection ": "25/07/2023 ",
+    "Sample Type ": "FFPE BLOCK:H-2354/23/A ",
+    "Date of Receipt ": "25/07/2023 ",
+    "Tumor Cellularity ": "35% ",
+    "Date of Report ": "21/08/2023 ",
+    "Result_Summary": "[{\"Alteration Description \":\"Mutations (SNVs and Indels) \",\"Findings \":\"PIK3CA, KMT2D \"},{\"Alteration Description \":\"Novel and known fusions identified \",\"Findings \":\"TRIM24 :: FGFR1 \"},{\"Alteration Description \":\"Copy number variants (CNVs) \",\"Findings \":\"Not Identified \"},{\"Alteration Description \":\"Loss of Heterozygosity (LOH) \",\"Findings \":\"22.01% \"},{\"Alteration Description \":\"Tumor mutational burden (TMB)- Status \",\"Findings \":\"LOW \"},{\"Alteration Description \":\"TMB Score (Mutation\\/mb) \",\"Findings \":\"5.79 \"},{\"Alteration Description \":\"Microsatellite instability (MSI) -Status \",\"Findings \":\"MSI STABLE-(MSS) \"},{\"Alteration Description \":\"MSI Score \",\"Findings \":\"5.02 \"}]",
+    "SNV_Identifiers": "[{\"Gene\\/Transcript \":\"PIK3CA NM_006218.4 \",\"Locus \":\"chr3:178936091 \",\"Variant\\/Amino Acid Change \":\"c.1633G>A p.Glu545Lys \",\"Total Coverage\\/VAF \":\"1998X 53.00% \",\"Impact on Protein Function \":\"Gain-of-Function \",\"Variant classification \":\"Pathogenic \",\"TIER classification \":\"Tier IIC \"},{\"Gene\\/Transcript \":\"KMT2D NM_003482.4 \",\"Locus \":\"chr12:49425896 \",\"Variant\\/Amino Acid Change \":\"c.12592C>T p.Arg4198Ter \",\"Total Coverage\\/VAF \":\"1943X 35.25% \",\"Impact on Protein Function \":\"Loss-of-Function \",\"Variant classification \":\"Pathogenic \",\"TIER classification \":\"None \"}]",
+    "Fusion_Identifiers": "[{\"Gene\\/Transcript \":\"TRIM24(11)- - FGFR1(10) \",\"Locus \":\"chr7:138255748 - chr8:38275891 \",\"Coverage\\/VAF \":\"714 \",\"Impact on Protein Function \":\"Gain-of-function \",\"Variant type \":\"Fusion \",\"TIER classification \":\"Tier IIC \"}]",
+    "HRR_Details": "[{\"Gene\\/Genomic Alteration \":\"LOH percentage \",\"Finding \":\"22.1% \"},{\"Gene\\/Genomic Alteration \":\"BRCA2 \",\"Finding \":\"CNV(BigDup), CN:3.93 \"},{\"Gene\\/Genomic Alteration \":\"BRCA2 \",\"Finding \":\"CNV(BigDel), CN:-0.0 \"},{\"Gene\\/Genomic Alteration \":\"BRCA2 \",\"Finding \":\"CNV(BigDel), CN:0.88 \"},{\"Gene\\/Genomic Alteration \":\"BARD1 \",\"Finding \":\"LOH, 2q35(215593375-215674382)x2 \"},{\"Gene\\/Genomic Alteration \":\"RAD51B \",\"Finding \":\"SNV, S289Y, AF:0.33 \"}]"
+}
