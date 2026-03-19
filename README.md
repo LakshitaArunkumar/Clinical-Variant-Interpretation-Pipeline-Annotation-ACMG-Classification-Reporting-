@@ -1,4 +1,4 @@
-# G-know ME Internship- 
+# G-know ME Internship
 
 ## Clinical Variant Interpretation Pipeline (Annotation → ACMG Classification → Reporting)
 
